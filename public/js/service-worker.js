@@ -2,6 +2,7 @@ const APP_PREFIX = 'FoodFest-';
 const VERSION = 'version_01';
 const CACHE_NAME = APP_PREFIX + VERSION;
 const DATA_CACHE = "datacache-"+VERSION;
+const WebpackPwaManifest = require("webpack-pwa-manifest")
 
 const FILES_TO_CACHE = [
     "/",
