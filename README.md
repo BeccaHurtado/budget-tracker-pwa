@@ -1,8 +1,8 @@
 # Budget Tracker(PWA)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/BeccaHurtado/pwa?style=flat-square)
-  ![GitHub issues](https://img.shields.io/github/issues/BeccaHurtado/pwa?style=flat-square)
-  ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_message=online&url=https%3A%2F%2FBeccaHurtado.github.io%2Fpwa)
-  ![GitHub contributors](https://img.shields.io/github/contributors/BeccaHurtado/pwa?style=flat-square)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/BeccaHurtado/budget-trackerpwa?style=flat-square)
+  ![GitHub issues](https://img.shields.io/github/issues/BeccaHurtado/budget-tracker-pwa?style=flat-square)
+  ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_message=online&url=https%3A%2F%2FBeccaHurtado.github.io%2Fbudget-tracker-pwa)
+  ![GitHub contributors](https://img.shields.io/github/contributors/BeccaHurtado/budget-tracker-pwa?style=flat-square)
 
   # Description
 
